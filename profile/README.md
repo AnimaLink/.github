@@ -1,8 +1,8 @@
 # Animalink App
 
-Animalink app is an app 
+Animalink app is a revolutionary application that seamlessly integrates a bustling marketplace with cutting-edge technology. Created for animal enthusiasts, Animalink offers an immersive experience, connecting users through a dynamic forum and creating a safe place by pioneering rare species detection features.
 
-## Team ID : C23-PS190
+## Team ID : CH2-PS494
 
 **Team Member:**
 1. (ML) M293BSX1843 – Tiffany Widjaya – Universitas Pelita Harapan (Active)
