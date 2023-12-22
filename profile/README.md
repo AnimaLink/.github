@@ -13,3 +13,4 @@ Animalink app is a revolutionary application that seamlessly integrates a bustli
 6. (MD) A391BSY2991 – Ong Gabriel Riverine Susanto – Universitas Sanata Dharma (Active)
 
 ### Theme: SME Empowerment
+![alt text](https://media.discordapp.net/attachments/1023598916857499680/1187693544643756092/image.png?ex=6597d0cf&is=65855bcf&hm=9fb16c53c586a8336914f2faf8da090007b9571a2dfc9c6b03c4c9efb867f353&=&format=webp&quality=lossless&width=1188&height=671)
